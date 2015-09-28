@@ -17,4 +17,7 @@ Or with interface builder
 
 <img src="https://raw.githubusercontent.com/crixalves/UICustomizeDatePicker/master/interfaceBuilder.png"/>
 
+And, the result:
 
+
+<img src="https://raw.githubusercontent.com/crixalves/UICustomizeDatePicker/master/result.png"/>
